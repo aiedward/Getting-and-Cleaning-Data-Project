@@ -1,5 +1,5 @@
 
-The Rscript named "run_analysis.R", it commented highly, self-explanatory and detailed overview of what it done, step by step: (Square brackets "[]" are used here to denote variables, vectors, data frames, etc. used in the script)
+The Rscript named "run_analysis.R", it commented highly, self-explanatory and detailed overview of what it done, step by step: (Square brackets "[ ]" are used here to denote variables, vectors, data frames, etc. used in the script)
 
 	1.Reads the names of all features from features.txt into [feature_names_original].
 
