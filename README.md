@@ -34,10 +34,6 @@ The different steps are described inside [run_analysis.R](https://github.com/aie
 - Saving the resulting dataset in a text file.
 - Saving the dataset column names in a text file.
 
-The resulting dataset [tidy.txt](https://github.com/aiedward/Getting-and-Cleaning-Data-Project/blob/master/tidy.txt) contains 66 columns of averaged information (per subject and activity) corresponding to the **Mean** and **std** of different meassurements for a total of 180 observations (30 subjects x 6 activities). 
-
-These observations include meassurements in **Time** and **Frequency** of magnitude (**Mag**) and components in **X**,**Y** and **Z** direction for the linear acceleration (**Acc**), angular acceleration (**Gyro**), linear jerk (**AccJerk**) and angular jerk (**GyroJerk**) for both **Body** and **Gravity** components. Columns 1 and 2 correspond to the **Subject** and **Activity**. 
-
 Postprocessing:
 ---------------
 A detailed description of the variable names (columns) found in [tidy.txt](https://github.com/aiedward/Getting-and-Cleaning-Data-Project/blob/master/tidy.txt) and the dataset For more information please refer to [CodeBook.md](https://github.com/aiedward/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md)
