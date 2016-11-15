@@ -47,5 +47,6 @@ This project includes the following files:
 - 'README.md': Read me documents.
 - 'CodeBook.md': List of all features.
 - 'run_analysis.R': Main R script performing the tidy operations.
-- 'tidy.txt': Tidy dataset  
+- 'test.md': Test Github files
+- 'tidy.txt': Tidy dataset.  
 
